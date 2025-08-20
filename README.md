@@ -1,6 +1,6 @@
 # neural-network-development
 
-**Neural Network Analysis of Glassy Particle Rearrangements**
+## Neural Network Analysis of Glassy Particle Rearrangements
 
 Janurary to December 2023 – Sussman Lab, Emory University
 
