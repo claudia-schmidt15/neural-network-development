@@ -17,9 +17,11 @@ Developed and optimized neural network models to classify particle rearrangement
 
 **Included Files**
 
-trainingNN.ipynb
+**trainingNN.ipynb**
+
 This notebook contains the initial implementation and training of a neural network. It sets up the model architecture, prepares the dataset, runs the training loop, and evaluates baseline performance. It serves as the foundation for understanding how the network performs before further optimization.
 
-improvingT045.ipynb
+**improvingT045.ipynb**
+
 This notebook builds on the initial training by experimenting with improvements to the model. It explores changes in architecture, tuning hyperparameters, and testing different training methods to enhance accuracy and efficiency. The goal is to analyze how these adjustments affect learning rate, convergence, and overall model output quality.
   
