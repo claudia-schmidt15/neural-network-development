@@ -4,7 +4,7 @@
 
 Janurary to December 2023 – Sussman Lab, Emory University
 
-Developed and optimized neural network models to classify particle rearrangements in simulated glassy materials across varying temperatures. The project applied multi-layer perceptron (MLP) architectures using scikit-learn to analyze datasets containing 100 radial distribution features per particle, labeled as rearranging or non-rearranging.
+Developed and optimized neural network models to classify particle rearrangements in simulated glassy materials across varying temperatures. The project applied multi-layer perceptron (MLP) architectures using scikit-learn to analyze datasets containing 100 radial distribution features per particle labeled as rearranging or non-rearranging.
 
 ## Key Contributions:
 
@@ -24,4 +24,9 @@ This notebook contains the initial implementation and training of a neural netwo
 **Optimizing_Neural_Network.ipynb**
 
 This notebook builds on the initial training by experimenting with improvements to the model. It explores changes in architecture, tuning hyperparameters, and testing different training methods to enhance accuracy and efficiency. The goal is to analyze how these adjustments affect learning rate, convergence, and overall model output quality.
+
+**Final_WriteUp.pdf**
+
+A written report summarizing research and results. It provides background, methodology, and findings that contextualize the neural network work in this repository. Major result: improved model accuracy from 64% to 77%.
+
   
