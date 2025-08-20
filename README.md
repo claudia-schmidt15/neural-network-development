@@ -2,7 +2,7 @@
 
 **Neural Network Analysis of Glassy Particle Rearrangements**
 
-Janurary 2023 to December 2023 – Sussman Lab, Emory University
+Janurary to December 2023 – Sussman Lab, Emory University
 
 Developed and optimized neural network models to classify particle rearrangements in simulated glassy materials across varying temperatures. The project applied multi-layer perceptron (MLP) architectures using scikit-learn to analyze datasets containing 100 radial distribution features per particle, labeled as rearranging or non-rearranging.
 
